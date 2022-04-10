@@ -1,7 +1,4 @@
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/toanwebdev.svg" width="1200" alt="toanwebdev-official" />
-</a>
+<!-- toanwebdev -->
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -42,9 +39,6 @@
   <a href="#" title="Toanwebdev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toanwebdev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Toanwebdev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
 </div>
 
 <br>
@@ -65,7 +59,11 @@
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="toanwebdev-instagram" />
   </a>
+<<<<<<< HEAD
   <a href="mailto:toanwebdev@gmail.com" target="top">
+=======
+  <a href="mailto:toan020101@gmail.com" target="top">
+>>>>>>> 8f3d683e0f6397d339314b7c9c19964466fbca63
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="toanwebdev-email" />
   </a>
 </div>
