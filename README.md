@@ -59,11 +59,7 @@
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="toanwebdev-instagram" />
   </a>
-<<<<<<< HEAD
-  <a href="mailto:toanwebdev@gmail.com" target="top">
-=======
   <a href="mailto:toan020101@gmail.com" target="top">
->>>>>>> 8f3d683e0f6397d339314b7c9c19964466fbca63
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="toanwebdev-email" />
   </a>
 </div>
